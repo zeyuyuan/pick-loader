@@ -1,0 +1,18 @@
+{
+  "name": "pick-loader",
+  "version": "1.0.0",
+  "description": "使用注释选择不同环境变量的打包代码",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeyuyuan/pick-loader.git"
+  },
+  "author": "yuanzeyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeyuyuan/pick-loader/issues"
+  },
+  "homepage": "https://github.com/zeyuyuan/pick-loader#readme"
+}
